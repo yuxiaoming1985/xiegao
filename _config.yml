@@ -248,3 +248,5 @@ p {
 .license img:hover {
   opacity: .6;
 }
+
+theme: jekyll-theme-cayman
