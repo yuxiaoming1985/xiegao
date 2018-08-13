@@ -1,78 +1,30 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Build your Privacy Avatar</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" sizes="128x128" href="images/favicon.png?1">
-    <link rel="stylesheet" href="style.css">
-  </head>
+俞小明笔会写作培训招生
 
-  <body>
-    <h1 class="title">The digital world needs a new hero!</h1>
-    <p>
-      Evil corporate forces are spying on your digital life.
-      Hackers are trying to steal your data.
-      You must rise up to defend yourself, your friends and your family.
-      Build an awesome <strong>SECURITY AVATAR</strong> to battle for your privacy.
-    </p>
+俞小明笔会写作培训旨在独立之精神自由之思想，本人从业职业撰稿人十余年，文字服务业务涵盖各个领域，具备丰富的从业经验，拥有海量原创写作素材。
 
-    <!-- Your card starts here -->
-    <div class="card">
-      <h1 class="name" tooltip="Name of your Avatar">
-        Crypto the Wise
-      </h1>
+办学宗旨
 
-      <div class="cost" tooltip="Deploy cost">
-        3 <img src="images/wifi.svg"/>
-      </div>
+学习写作就是培养学员独立思考的能力，培养自身文字功底、提升文化底蕴。
 
-      <div class="image" tooltip="A sweet portrait image"></div>
+办学特色
 
-      <div class="type" tooltip="Avatar Type">
-        Type: Cyber-Defender
-      </div>
+1对1教学，提升学员写作水平，缩短差距。
 
-      <!-- Use the following list of abilities, or make up your own -->
-      <ul class="abilities" tooltip="List of anti-hacking abilities">
-        <li>Account defender</li>
-        <!-- <li>Ad blocker</li> -->
-        <!-- <li>Anonymizing agent</li> -->
-        <!-- <li>Data guardian</li> -->
-        <!-- <li>Encoded contacts</li> -->
-        <!-- <li>Encryption expert</li> -->
-        <!-- <li>Hidden historian</li> -->
-        <!-- <li>Metadata master</li> -->
-        <!-- <li>Password genius</li> -->
-        <!-- <li>Private browser</li> -->
-        <li>Search savant</li>
-        <!-- <li>Secret location</li> -->
-        <!-- <li>Secure messenger</li> -->
-        <!-- <li>Tech teacher</li> -->
-        <li>Third-party pummeler</li>
-        <!-- <li>Track the trackers</li> -->
-        <!-- <li>Two-factor titan</li> -->
-        <!-- <li>VPN ranger</li> -->
-      </ul>
+针对学员需求量身定制课目表和课程教案。
 
-      <div class="flavor-text" tooltip="A wise quote">
-        "Defend all the things."
-      </div>
+私人授业布置作业，解惑学员练笔中的难点。
 
-      <div class="power stat" tooltip="Attack power&mdash;Number of devices">
-        2 <img src="images/device.svg"/>
-      </div>
-      <div class="defense stat" tooltip="Defense power&mdash;Number of passwords">
-        4 <img src="images/lock.svg"/>
-      </div>
-      <div class="sheen"></div>
-    </div>
+通过学习结交朋友并有机会加入国际性笔会组织。
 
-    <div class="tooltip"></div>
-    
-    <div class="license">
-      CC-BY <a href="https://teach.mozilla.org"><img src="images/mozilla-logo.svg" /></a>
-    </div>
+涵盖课程：商业文宣写作、商业文案与策划、政府工作应用文、时事评论观点、影视脚本、图文段子，歌词、小说文学创作等等。
 
-    <script src="scripts/tooltip.js" type="text/javascript"></script>
-  </body>
-</html>
+招生范围：面向全球华语地区。
+
+作者作品：《2014中国网络金融改革风云录》、《观点评述收藏宝典》、《天下无弊事》、《心宇将灭胡兰成》、《功夫写手》等。
+
+联系电话和微信：13777235376
+
+作者：俞小明筆會私教l文化沉澱工程師
+链接：https://www.jianshu.com/p/4a77fd2d73dc
+來源：简书
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
